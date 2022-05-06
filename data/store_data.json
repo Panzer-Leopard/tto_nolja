@@ -1,0 +1,148 @@
+{
+    "매장정보": [
+        {
+            "name": "페리카나 후곡점",
+            "tel": "0507-0094-0571",
+            "star": "4.47/5",
+            "addr": "경기 고양시 일산서구 강선로 140\n경의중앙일산역 1번 출구에서950m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20211027_292%2F1635324599018SW6AA_JPEG%2Fd7912aa9-3702-11ec-917b-a0369ff9545c_03.jpg"
+        },
+        {
+            "name": "60계 일산동점",
+            "tel": "0507-1417-7760",
+            "star": "4.3/5",
+            "addr": "경기 고양시 일산서구 강선로 164 상가동 102호\n경의중앙일산역 1번 출구에서670m",
+            "time": "23:30에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_181%2F1488250011775NqjuK_PNG%2F186178517671100_0.png"
+        },
+        {
+            "name": "치킨마루 후곡11단지점",
+            "tel": "0507-1419-9969",
+            "star": "4.41/5",
+            "addr": "경기 고양시 일산서구 강선로 192 후곡11단지 상가 109호\n경의중앙일산역 1번 출구에서408m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_55%2F1629791213855Wks7m_PNG%2FGhpf-z3Q8dmP0M_Yp9f7nDp_.png"
+        },
+        {
+            "name": "BHC치킨 일산동점",
+            "tel": "031-911-4955",
+            "star": "4.41/5",
+            "addr": "경기 고양시 일산서구 강선로 187 후곡마을10단지분산상가 101호\n경의중앙일산역 1번 출구에서507m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_300%2F1651023392796xVWaL_PNG%2F%25C4%25A1%25C6%25FE%25B4%25E7_%25B3%25D7%25C0%25CC%25B9%25F6_%25B0%25F8%25C5%25EB%25BA%25CE%25B0%25A1%25C1%25A4%25BA%25B8_%25C0%25CC%25B9%25CC%25C1%25F6.png"
+        },
+        {
+            "name": "채군치킨 주엽본점",
+            "tel": "0507-1371-9952",
+            "star": "4.45/5",
+            "addr": "경기 고양시 일산서구 강선로 59 동신파크\n3주엽역 8번 출구에서285m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_180%2F1600303143729W1spJ_JPEG%2FawBug7BfrIEW62awj3hA073X.jpg"
+        },
+        {
+            "name": "페리카나 강선점",
+            "tel": "031-912-5550",
+            "star": "3.9/5",
+            "addr": "경기 고양시 일산서구 강선로 67 강선마을\n3주엽역 8번 출구에서412m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210624_76%2F1624504102690X9PPV_JPEG%2FSewVcdNlfYEoBqG-4-shv-Dw.jpg"
+        },
+        {
+            "name": "또래오래 강선문촌점",
+            "tel": "0507-0090-7810",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 30 강선마을\n3주엽역 1번 출구에서413m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180718_252%2F1531878941950yb7Fs_JPEG%2FyK7MRM2NhO1fWH-eu9uFh7iS.jpg"
+        },
+        {
+            "name": "닭대감주엽점",
+            "tel": "031-918-6080",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 74\n3주엽역 8번 출구에서453m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F18403615%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651820809923%26md%3D6FVgd8eBcIhzIFboctEoy9m9ADo%253D"
+        },
+        {
+            "name": "본스치킨",
+            "tel": "031-915-9592",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서162m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_252%2F15488447395009eapA_JPEG%2FNDZZuLQpOia-RDLXpwK6gipp.jpeg.jpg"
+        },
+        {
+            "name": "페리카나 후곡점",
+            "tel": "0507-0094-0571",
+            "star": "4.47/5",
+            "addr": "경기 고양시 일산서구 강선로 140\n경의중앙일산역 1번 출구에서950m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20211027_292%2F1635324599018SW6AA_JPEG%2Fd7912aa9-3702-11ec-917b-a0369ff9545c_03.jpg"
+        },
+        {
+            "name": "60계 일산동점",
+            "tel": "0507-1417-7760",
+            "star": "4.3/5",
+            "addr": "경기 고양시 일산서구 강선로 164 상가동 102호\n경의중앙일산역 1번 출구에서670m",
+            "time": "23:30에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_181%2F1488250011775NqjuK_PNG%2F186178517671100_0.png"
+        },
+        {
+            "name": "치킨마루 후곡11단지점",
+            "tel": "0507-1419-9969",
+            "star": "4.41/5",
+            "addr": "경기 고양시 일산서구 강선로 192 후곡11단지 상가 109호\n경의중앙일산역 1번 출구에서408m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_55%2F1629791213855Wks7m_PNG%2FGhpf-z3Q8dmP0M_Yp9f7nDp_.png"
+        },
+        {
+            "name": "BHC치킨 일산동점",
+            "tel": "031-911-4955",
+            "star": "4.41/5",
+            "addr": "경기 고양시 일산서구 강선로 187 후곡마을10단지분산상가 101호\n경의중앙일산역 1번 출구에서507m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_300%2F1651023392796xVWaL_PNG%2F%25C4%25A1%25C6%25FE%25B4%25E7_%25B3%25D7%25C0%25CC%25B9%25F6_%25B0%25F8%25C5%25EB%25BA%25CE%25B0%25A1%25C1%25A4%25BA%25B8_%25C0%25CC%25B9%25CC%25C1%25F6.png"
+        },
+        {
+            "name": "채군치킨 주엽본점",
+            "tel": "0507-1371-9952",
+            "star": "4.45/5",
+            "addr": "경기 고양시 일산서구 강선로 59 동신파크\n3주엽역 8번 출구에서285m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_180%2F1600303143729W1spJ_JPEG%2FawBug7BfrIEW62awj3hA073X.jpg"
+        },
+        {
+            "name": "페리카나 강선점",
+            "tel": "031-912-5550",
+            "star": "3.9/5",
+            "addr": "경기 고양시 일산서구 강선로 67 강선마을\n3주엽역 8번 출구에서412m",
+            "time": "새벽 00:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210624_76%2F1624504102690X9PPV_JPEG%2FSewVcdNlfYEoBqG-4-shv-Dw.jpg"
+        },
+        {
+            "name": "또래오래 강선문촌점",
+            "tel": "0507-0090-7810",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 30 강선마을\n3주엽역 1번 출구에서413m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180718_252%2F1531878941950yb7Fs_JPEG%2FyK7MRM2NhO1fWH-eu9uFh7iS.jpg"
+        },
+        {
+            "name": "닭대감주엽점",
+            "tel": "031-918-6080",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 74\n3주엽역 8번 출구에서453m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F18403615%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651820868904%26md%3D7RpVBUlFA%252FR1ZnEQU1E%252BWcvQLAg%253D"
+        },
+        {
+            "name": "본스치킨",
+            "tel": "031-915-9592",
+            "star": "4.42/5",
+            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서162m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_252%2F15488447395009eapA_JPEG%2FNDZZuLQpOia-RDLXpwK6gipp.jpeg.jpg"
+        }
+    ]
+}
