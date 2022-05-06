@@ -1,148 +1,228 @@
 {
     "매장정보": [
         {
-            "name": "페리카나 후곡점",
-            "tel": "0507-0094-0571",
-            "star": "4.47/5",
-            "addr": "경기 고양시 일산서구 강선로 140\n경의중앙일산역 1번 출구에서950m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20211027_292%2F1635324599018SW6AA_JPEG%2Fd7912aa9-3702-11ec-917b-a0369ff9545c_03.jpg"
-        },
-        {
-            "name": "60계 일산동점",
-            "tel": "0507-1417-7760",
-            "star": "4.3/5",
-            "addr": "경기 고양시 일산서구 강선로 164 상가동 102호\n경의중앙일산역 1번 출구에서670m",
-            "time": "23:30에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_181%2F1488250011775NqjuK_PNG%2F186178517671100_0.png"
-        },
-        {
-            "name": "치킨마루 후곡11단지점",
-            "tel": "0507-1419-9969",
-            "star": "4.41/5",
-            "addr": "경기 고양시 일산서구 강선로 192 후곡11단지 상가 109호\n경의중앙일산역 1번 출구에서408m",
-            "time": "23:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_55%2F1629791213855Wks7m_PNG%2FGhpf-z3Q8dmP0M_Yp9f7nDp_.png"
-        },
-        {
-            "name": "BHC치킨 일산동점",
-            "tel": "031-911-4955",
-            "star": "4.41/5",
-            "addr": "경기 고양시 일산서구 강선로 187 후곡마을10단지분산상가 101호\n경의중앙일산역 1번 출구에서507m",
-            "time": "23:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_300%2F1651023392796xVWaL_PNG%2F%25C4%25A1%25C6%25FE%25B4%25E7_%25B3%25D7%25C0%25CC%25B9%25F6_%25B0%25F8%25C5%25EB%25BA%25CE%25B0%25A1%25C1%25A4%25BA%25B8_%25C0%25CC%25B9%25CC%25C1%25F6.png"
-        },
-        {
-            "name": "채군치킨 주엽본점",
-            "tel": "0507-1371-9952",
+            "name": "요거트월드 주엽점",
+            "tel": "0507-1309-3968",
             "star": "4.45/5",
-            "addr": "경기 고양시 일산서구 강선로 59 동신파크\n3주엽역 8번 출구에서285m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_180%2F1600303143729W1spJ_JPEG%2FawBug7BfrIEW62awj3hA073X.jpg"
-        },
-        {
-            "name": "페리카나 강선점",
-            "tel": "031-912-5550",
-            "star": "3.9/5",
-            "addr": "경기 고양시 일산서구 강선로 67 강선마을\n3주엽역 8번 출구에서412m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210624_76%2F1624504102690X9PPV_JPEG%2FSewVcdNlfYEoBqG-4-shv-Dw.jpg"
-        },
-        {
-            "name": "또래오래 강선문촌점",
-            "tel": "0507-0090-7810",
-            "star": "4.42/5",
-            "addr": "경기 고양시 일산서구 강선로 30 강선마을\n3주엽역 1번 출구에서413m",
+            "addr": "경기 고양시 일산서구 강선로 118 상가 102호 요거트월드\n3주엽역 8번 출구에서903m",
             "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180718_252%2F1531878941950yb7Fs_JPEG%2FyK7MRM2NhO1fWH-eu9uFh7iS.jpg"
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220305_176%2F164647169135604wYF_JPEG%2FC9DED292-5D13-49ED-9EB3-929D007D5528.jpeg"
         },
         {
-            "name": "닭대감주엽점",
-            "tel": "031-918-6080",
-            "star": "4.42/5",
-            "addr": "경기 고양시 일산서구 강선로 74\n3주엽역 8번 출구에서453m",
-            "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F18403615%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651820809923%26md%3D6FVgd8eBcIhzIFboctEoy9m9ADo%253D"
+            "name": "커피팩토리 후곡",
+            "tel": "031-911-0564",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 140 후곡마을17단지 태영상가 1층\n경의중앙일산역 1번 출구에서950m",
+            "time": "20:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210122_145%2F1611275077148G6Q2l_JPEG%2FKakaoTalk_20210122_092330200.jpg"
         },
         {
-            "name": "본스치킨",
-            "tel": "031-915-9592",
-            "star": "4.42/5",
-            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서162m",
-            "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_252%2F15488447395009eapA_JPEG%2FNDZZuLQpOia-RDLXpwK6gipp.jpeg.jpg"
+            "name": "감성커피 일산주엽점",
+            "tel": "031-913-3888",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 59\n3주엽역 8번 출구에서258m",
+            "time": "20:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211031_171%2F16356746645344p4tJ_JPEG%2FY36Cpd3BY7xq_m4HSKfo5eTf.jpeg.jpg"
         },
         {
-            "name": "페리카나 후곡점",
-            "tel": "0507-0094-0571",
-            "star": "4.47/5",
-            "addr": "경기 고양시 일산서구 강선로 140\n경의중앙일산역 1번 출구에서950m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20211027_292%2F1635324599018SW6AA_JPEG%2Fd7912aa9-3702-11ec-917b-a0369ff9545c_03.jpg"
+            "name": "루루라라 베이커리",
+            "tel": "0507-1367-8621",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 32 강선15단지 상가동 105호\n3주엽역 1번 출구에서413m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211208_176%2F1638940548823JPJDM_JPEG%2F1638709953178.jpg"
         },
         {
-            "name": "60계 일산동점",
-            "tel": "0507-1417-7760",
-            "star": "4.3/5",
-            "addr": "경기 고양시 일산서구 강선로 164 상가동 102호\n경의중앙일산역 1번 출구에서670m",
-            "time": "23:30에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_181%2F1488250011775NqjuK_PNG%2F186178517671100_0.png"
+            "name": "플레르마카롱",
+            "tel": "070-8150-0304",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서321m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180629_83%2F1530249081357Uvcaa_JPEG%2FGSb6BZ6ymCtE9juboP_D2Cmt.jpg"
         },
         {
-            "name": "치킨마루 후곡11단지점",
-            "tel": "0507-1419-9969",
-            "star": "4.41/5",
-            "addr": "경기 고양시 일산서구 강선로 192 후곡11단지 상가 109호\n경의중앙일산역 1번 출구에서408m",
-            "time": "23:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_55%2F1629791213855Wks7m_PNG%2FGhpf-z3Q8dmP0M_Yp9f7nDp_.png"
+            "name": "뽕스크로플 주엽점",
+            "tel": "070-8818-7777",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 116\n3주엽역 8번 출구에서972m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1447288872%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823152995%26md%3DezXRex7qyegonB2mRn2SPEmNotw%253D"
         },
         {
-            "name": "BHC치킨 일산동점",
-            "tel": "031-911-4955",
-            "star": "4.41/5",
-            "addr": "경기 고양시 일산서구 강선로 187 후곡마을10단지분산상가 101호\n경의중앙일산역 1번 출구에서507m",
-            "time": "23:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_300%2F1651023392796xVWaL_PNG%2F%25C4%25A1%25C6%25FE%25B4%25E7_%25B3%25D7%25C0%25CC%25B9%25F6_%25B0%25F8%25C5%25EB%25BA%25CE%25B0%25A1%25C1%25A4%25BA%25B8_%25C0%25CC%25B9%25CC%25C1%25F6.png"
+            "name": "제로2도넛",
+            "tel": "050-5903-9020",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 142 상가 2층 202호",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211217_120%2F1639716193722hOFTQ_PNG%2F1635476334322.png"
         },
         {
-            "name": "채군치킨 주엽본점",
-            "tel": "0507-1371-9952",
+            "name": "별다방",
+            "tel": "010-9797-9096",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 35\n3주엽역 1번 출구에서413m",
+            "time": "20:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200914_211%2F1600078926943WOoRR_JPEG%2F5Ix8izbApRzC7tCnBKy62K_P.jpg"
+        },
+        {
+            "name": "커피샾",
+            "tel": "0507-1337-3770",
             "star": "4.45/5",
-            "addr": "경기 고양시 일산서구 강선로 59 동신파크\n3주엽역 8번 출구에서285m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_180%2F1600303143729W1spJ_JPEG%2FawBug7BfrIEW62awj3hA073X.jpg"
+            "addr": "경기 고양시 일산서구 강선로 167 후곡15단지 상가 1층 103호\n경의중앙일산역 1번 출구에서634m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200606_270%2F1591419918657g1McS_JPEG%2FeHea6S-SvEE6G9QQUwp1nwYt.jpg"
         },
         {
-            "name": "페리카나 강선점",
-            "tel": "031-912-5550",
-            "star": "3.9/5",
-            "addr": "경기 고양시 일산서구 강선로 67 강선마을\n3주엽역 8번 출구에서412m",
-            "time": "새벽 00:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210624_76%2F1624504102690X9PPV_JPEG%2FSewVcdNlfYEoBqG-4-shv-Dw.jpg"
-        },
-        {
-            "name": "또래오래 강선문촌점",
-            "tel": "0507-0090-7810",
-            "star": "4.42/5",
-            "addr": "경기 고양시 일산서구 강선로 30 강선마을\n3주엽역 1번 출구에서413m",
-            "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180718_252%2F1531878941950yb7Fs_JPEG%2FyK7MRM2NhO1fWH-eu9uFh7iS.jpg"
-        },
-        {
-            "name": "닭대감주엽점",
-            "tel": "031-918-6080",
-            "star": "4.42/5",
+            "name": "본솔커피",
+            "tel": "031-914-0198",
+            "star": "4.21/5",
             "addr": "경기 고양시 일산서구 강선로 74\n3주엽역 8번 출구에서453m",
-            "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F18403615%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651820868904%26md%3D7RpVBUlFA%252FR1ZnEQU1E%252BWcvQLAg%253D"
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1281450995%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823178173%26md%3DIsQ9vrZqqdLaK3NV6XmngIIUUPQ%253D"
         },
         {
-            "name": "본스치킨",
-            "tel": "031-915-9592",
-            "star": "4.42/5",
-            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서162m",
+            "name": "달아달아 주엽점",
+            "tel": "02-3085-8771",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 32 강선마을15단지 상가 1층 뒷편\n3주엽역 1번 출구에서413m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210726_217%2F1627295273851bi7Mf_JPEG%2FNlxJeQQgNyqh0wAhNKYoUKEr.jpg"
+        },
+        {
+            "name": "달달해아이스크림 주엽점",
+            "tel": "02-3085-8771",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 67 (주엽동) 상가동 107호\n3주엽역 8번 출구에서412m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1733645248%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823190449%26md%3DjJo1TYp84HvY9cahe725iKaAGhw%253D"
+        },
+        {
+            "name": "해나헬시카페 일산서구점",
+            "tel": "031-919-2060",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 49\n3주엽역 1번 출구에서158m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1235441539%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823196624%26md%3DgcsDq5QrAqOFlqn9b8kgLm2i544%253D"
+        },
+        {
+            "name": "얼음나라 후곡점",
+            "tel": "031-919-2060",
+            "star": "4.26/5",
+            "addr": "경기 고양시 일산서구 강선로 137\n경의중앙일산역 1번 출구에서930m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1404259279%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823202875%26md%3DVVKL4mNZT56X%252BteicjUq1pEGVvM%253D"
+        },
+        {
+            "name": "요거트월드 주엽점",
+            "tel": "0507-1309-3968",
+            "star": "4.26/5",
+            "addr": "경기 고양시 일산서구 강선로 118 상가 102호 요거트월드\n3주엽역 8번 출구에서903m",
             "time": "새벽 02:00에 영업 종료",
-            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_252%2F15488447395009eapA_JPEG%2FNDZZuLQpOia-RDLXpwK6gipp.jpeg.jpg"
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220305_176%2F164647169135604wYF_JPEG%2FC9DED292-5D13-49ED-9EB3-929D007D5528.jpeg"
+        },
+        {
+            "name": "커피팩토리 후곡",
+            "tel": "031-911-0564",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 140 후곡마을17단지 태영상가 1층\n경의중앙일산역 1번 출구에서950m",
+            "time": "20:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210122_145%2F1611275077148G6Q2l_JPEG%2FKakaoTalk_20210122_092330200.jpg"
+        },
+        {
+            "name": "감성커피 일산주엽점",
+            "tel": "031-913-3888",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 59\n3주엽역 8번 출구에서258m",
+            "time": "20:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211031_171%2F16356746645344p4tJ_JPEG%2FY36Cpd3BY7xq_m4HSKfo5eTf.jpeg.jpg"
+        },
+        {
+            "name": "루루라라 베이커리",
+            "tel": "0507-1367-8621",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 32 강선15단지 상가동 105호\n3주엽역 1번 출구에서413m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211208_176%2F1638940548823JPJDM_JPEG%2F1638709953178.jpg"
+        },
+        {
+            "name": "플레르마카롱",
+            "tel": "070-8150-0304",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 33\n3주엽역 1번 출구에서321m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180629_83%2F1530249081357Uvcaa_JPEG%2FGSb6BZ6ymCtE9juboP_D2Cmt.jpg"
+        },
+        {
+            "name": "뽕스크로플 주엽점",
+            "tel": "070-8818-7777",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 116\n3주엽역 8번 출구에서972m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1447288872%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823242343%26md%3D1doyUIeZnay1HQt%252FdvJvx3iF%252Ft0%253D"
+        },
+        {
+            "name": "제로2도넛",
+            "tel": "050-5903-9020",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 142 상가 2층 202호",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211217_120%2F1639716193722hOFTQ_PNG%2F1635476334322.png"
+        },
+        {
+            "name": "별다방",
+            "tel": "010-9797-9096",
+            "star": "4.39/5",
+            "addr": "경기 고양시 일산서구 강선로 35\n3주엽역 1번 출구에서413m",
+            "time": "20:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200914_211%2F1600078926943WOoRR_JPEG%2F5Ix8izbApRzC7tCnBKy62K_P.jpg"
+        },
+        {
+            "name": "커피샾",
+            "tel": "0507-1337-3770",
+            "star": "4.45/5",
+            "addr": "경기 고양시 일산서구 강선로 167 후곡15단지 상가 1층 103호\n경의중앙일산역 1번 출구에서634m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200606_270%2F1591419918657g1McS_JPEG%2FeHea6S-SvEE6G9QQUwp1nwYt.jpg"
+        },
+        {
+            "name": "본솔커피",
+            "tel": "031-914-0198",
+            "star": "4.21/5",
+            "addr": "경기 고양시 일산서구 강선로 74\n3주엽역 8번 출구에서453m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1281450995%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823267123%26md%3D7gpTsYXjzqNQVcDCR2Ekg3ImSPA%253D"
+        },
+        {
+            "name": "달아달아 주엽점",
+            "tel": "02-3085-8771",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 32 강선마을15단지 상가 1층 뒷편\n3주엽역 1번 출구에서413m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210726_217%2F1627295273851bi7Mf_JPEG%2FNlxJeQQgNyqh0wAhNKYoUKEr.jpg"
+        },
+        {
+            "name": "달달해아이스크림 주엽점",
+            "tel": "02-3085-8771",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 67 (주엽동) 상가동 107호\n3주엽역 8번 출구에서412m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1733645248%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823279523%26md%3DHegCbID8KmUbgz1RS7MkP01Qxgk%253D"
+        },
+        {
+            "name": "해나헬시카페 일산서구점",
+            "tel": "031-919-2060",
+            "star": "4.43/5",
+            "addr": "경기 고양시 일산서구 강선로 49\n3주엽역 1번 출구에서158m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1235441539%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823285708%26md%3DV%252BgAhL5Pd8E857rPBLzeMiiHz9Y%253D"
+        },
+        {
+            "name": "얼음나라 후곡점",
+            "tel": "031-919-2060",
+            "star": "4.26/5",
+            "addr": "경기 고양시 일산서구 강선로 137\n경의중앙일산역 1번 출구에서930m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1404259279%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1651823291953%26md%3D5112ZZV3vWWKCHpAiwgsoP3%252FnW4%253D"
         }
     ]
 }
