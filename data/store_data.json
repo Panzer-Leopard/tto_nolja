@@ -1,3 +1,236 @@
 {
-    "매장정보": []
+    "매장정보": [
+        {
+            "name": "쥬인더시티",
+            "category": "애견카페",
+            "tel": "0507-1405-4672",
+            "addr": "서울 마포구 홍익로 15 3층\n2공항경의중앙홍대입구역 9번 출구에서337m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161024_10%2F1477277187599HNz2h_PNG%2F176967536845782_1.png"
+        },
+        {
+            "name": "땡스네이쳐카페",
+            "category": "카페",
+            "tel": "02-332-7470",
+            "addr": "서울 마포구 홍익로 10 서교푸르지오상가 지하121호\n2공항경의중앙홍대입구역 9번 출구에서356m",
+            "time": "21:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200908_57%2F1599539642580GIJ0C_JPEG%2F46fsNU26X6i_Sbut6MMSqO_T.jpg"
+        },
+        {
+            "name": "요괴냥수비대",
+            "category": "카페,디저트",
+            "tel": "02-6406-5939",
+            "addr": "서울 마포구 홍익로 13-12\n2공항경의중앙홍대입구역 9번 출구에서414m",
+            "time": "20:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210315_175%2F16157958683357r3Mj_JPEG%2Fi4U6gh59MIF-JM4HnU9CoRUl.jpeg.jpg"
+        },
+        {
+            "name": "그릭데이 홍대점",
+            "category": "카페,디저트",
+            "tel": "0507-1378-9224",
+            "addr": "서울 마포구 홍익로 10 101동 119호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "20:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211202_220%2F16384079644846eoNo_PNG%2F%25B1%25D7%25B8%25AF%25B5%25A5%25C0%25CC_%25B8%25AE%25B4%25BA%25BE%25F3_%25BF%25F8%25C7%25FC.png"
+        },
+        {
+            "name": "보드게임카페 레드버튼 홍대점",
+            "category": "보드카페",
+            "tel": "0507-1432-3799",
+            "addr": "서울 마포구 홍익로 19 3층\n2공항경의중앙홍대입구역 9번 출구에서280m",
+            "time": "새벽 02:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210507_134%2F1620346804749Gszzf_JPEG%2FRBA2GnlYzPJMfvSNbAVU4Joe.jpg"
+        },
+        {
+            "name": "서교동언니네",
+            "category": "카페,디저트",
+            "tel": "050-5511-8884",
+            "addr": "서울 마포구 홍익로 10 서교푸르지오 상가 B110호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "20:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200627_96%2F1593217137221YFjP9_JPEG%2F65bJ3Cf7TPSBtfEwY1c0XYwk.jpg"
+        },
+        {
+            "name": "코코버블티 홍대점",
+            "category": "카페,디저트",
+            "tel": "0507-1322-5688",
+            "addr": "서울 마포구 홍익로 15 1층 coco\n2공항경의중앙홍대입구역 9번 출구에서337m",
+            "time": "22:30에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200506_296%2F1588732013929gsvEH_JPEG%2FNjZzAHwNrCmydzFE3WGTVNQN.jpg"
+        },
+        {
+            "name": "그날그시간",
+            "category": "베이커리",
+            "tel": "0507-1357-5707",
+            "addr": "서울 마포구 홍익로 10 1층 130호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "21:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211015_288%2F1634305599852WgIQj_PNG%2F7UYOZc1VjR-kuRiXNHIgP79C.png"
+        },
+        {
+            "name": "이디야커피 홍익대점",
+            "category": "카페",
+            "tel": "02-326-0086",
+            "addr": "서울 마포구 홍익로 10\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201218_157%2F1608286215970a0JSl_JPEG%2FxBRBneDw4GnGoXMzpdHmNh8_.jpg"
+        },
+        {
+            "name": "쥬씨&차얌 홍대점",
+            "category": "과일,주스전문점",
+            "tel": "0507-1348-2181",
+            "addr": "서울 마포구 홍익로 10 101동 지층 104호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200422_268%2F1587530117891LajvS_JPEG%2FAAGb1x54jFCr2324isXxnKeW.jpeg.jpg"
+        },
+        {
+            "name": "카페펫크루",
+            "category": "고양이카페",
+            "tel": "0507-1305-1367",
+            "addr": "서울 마포구 홍익로 3-3 2층\n2공항경의중앙홍대입구역 9번 출구에서468m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180227_19%2F1519726024569gUMGK_JPEG%2Fwz1afAZpECp1S6-TYF_Nbhiz.jpg"
+        },
+        {
+            "name": "프린트카페 홍익대점",
+            "category": "프린트인쇄",
+            "tel": null,
+            "addr": "서울 마포구 홍익로 10 서교푸르지오 109호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "연중무휴",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210526_20%2F1622007904041Ug4MA_JPEG%2FtgwzS5QEQEIDQkG3a1jTa2ET.jpg"
+        },
+        {
+            "name": "보드놀이터 홍대본점",
+            "category": "보드카페",
+            "tel": "0507-1404-4538",
+            "addr": "서울 마포구 홍익로 9-1 지하1층\n2공항경의중앙홍대입구역 9번 출구에서392m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220219_276%2F1645251683667Ax4fl_JPEG%2F1644747676312.jpg"
+        },
+        {
+            "name": "라이프커피컴퍼니",
+            "category": "카페",
+            "tel": "0507-1355-3958",
+            "addr": "서울 마포구 홍익로 10 서교푸르지오아파트상가 지하111호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "19:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181015_93%2F1539608448981WEcDO_JPEG%2Fr0R6hTtMtF_6_biMUZEPdJ6U.jpg"
+        },
+        {
+            "name": "아지트",
+            "category": "카페,디저트",
+            "tel": null,
+            "addr": "서울 마포구 홍익로 3-3\n2공항경의중앙홍대입구역 9번 출구에서470m",
+            "time": "새벽 01:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20150813_238%2Fhongdae_food_1439429406579rnEEp_JPEG%2F003.jpg"
+        },
+        {
+            "name": "슈퍼커피 홍대점",
+            "category": "카페",
+            "tel": "0507-1489-5900",
+            "addr": "서울 마포구 홍익로 10 서교푸르지오\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181122_230%2F154289447455757qAH_JPEG%2FpsgwlOqhZJyqPFtYOAEVLzbf.jpg"
+        },
+        {
+            "name": "카페새록",
+            "category": "카페,디저트",
+            "tel": "0507-1397-2085",
+            "addr": "서울 마포구 홍익로 3-12 1층\n2공항경의중앙홍대입구역 9번 출구에서500m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210618_97%2F1623983440842L58eB_JPEG%2FWUzCuN0ifV0Hz6ISVq-qGZXh.jpg"
+        },
+        {
+            "name": "카페소노",
+            "category": "카페,디저트",
+            "tel": "02-322-5698",
+            "addr": "서울 마포구 홍익로 3\n2공항경의중앙홍대입구역 9번 출구에서459m",
+            "time": null,
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210130_289%2F1611985217297NAumH_JPEG%2Fv7W2rymTfLYAk37KTeZjntav.jpg"
+        },
+        {
+            "name": "커피랩익스프레스",
+            "category": "카페",
+            "tel": "070-8688-0909",
+            "addr": "서울 마포구 홍익로 15\n2공항경의중앙홍대입구역 9번 출구에서337m",
+            "time": "21:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAzMjNfMzgg%2FMDAxNDkwMjYwNjIwNzcy.QrEKvupgI6NHFYAsTA4mAFkmnnz2aOG6B8RTOtPfQzIg.DmalRKCrdxXbCRa4jWHm4l9dg1mT82UcLsDu6HVcHAgg.JPEG.sooomani%2FIMG_6219.jpg"
+        },
+        {
+            "name": "더팥투고",
+            "category": "카페,디저트",
+            "tel": "02-333-6020",
+            "addr": "서울 마포구 홍익로 10\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "22:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20140804_274%2Fjenny8428_1407129940930Q4q0d_JPEG%2FP7181764."
+        },
+        {
+            "name": "메타스튜디오",
+            "category": "장소대여",
+            "tel": "0507-1313-7272",
+            "addr": "서울 마포구 홍익로 9\n2공항경의중앙홍대입구역 9번 출구에서395m",
+            "time": "연중무휴",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220225_171%2F1645797105651s03nw_JPEG%2F3C8E1276-DC12-44D7-BD4A-674BF42321C3.jpeg"
+        },
+        {
+            "name": "온유디저트",
+            "category": "카페,디저트",
+            "tel": "070-7543-4666",
+            "addr": "서울 마포구 홍익로 3-3 1층 온유디저트 카페\n2공항경의중앙홍대입구역 9번 출구에서470m",
+            "time": null,
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAxMTJfNzEg%2FMDAxNTQ3Mjc5MTk1NDA3.k-J6f4i8wURT1EBo7Vhb3Y-zt7AvnF0iM8OfuWikbmAg.6gf3OtJN-zUY4BN-sXEt8rfTepr-jrZbW4ZW9G6oNHsg.JPEG.woojoorang%2FIMG_5026."
+        },
+        {
+            "name": "트루보스",
+            "category": "카페,디저트",
+            "tel": "0507-1320-8580",
+            "addr": "서울 마포구 홍익로 10 140호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "21:30에 라스트오더",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200609_101%2F1591708159185Rn0RW_JPEG%2FVB9QZ8NjuLF7wSULCj1DRZCm.jpg"
+        },
+        {
+            "name": "페이딩",
+            "category": "카페",
+            "tel": "0507-1336-7512",
+            "addr": "서울 마포구 홍익로 10 138호\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "21:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191116_282%2F1573880002035jm9uq_JPEG%2FD37QLYlHRR5Pf-F9VPq-ewtn.jpg"
+        },
+        {
+            "name": "티스빈",
+            "category": "카페,디저트",
+            "tel": "02-322-2791",
+            "addr": "서울 마포구 홍익로 5\n2공항경의중앙홍대입구역 9번 출구에서431m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_167%2F144104656950568Bae_JPEG%2FSUBMIT_1376297551140_33060661.jpg"
+        },
+        {
+            "name": "당근",
+            "category": "카페",
+            "tel": "070-8722-2156",
+            "addr": "서울 마포구 홍익로 3-12\n2공항경의중앙홍대입구역 9번 출구에서480m",
+            "time": "23:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_30%2F1440998417420JD07Q_JPEG%2F146060567136683_0.jpeg"
+        },
+        {
+            "name": "카페칸타타",
+            "category": "카페",
+            "tel": "02-2621-0526",
+            "addr": "서울 마포구 홍익로 6\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": null,
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20150812_267%2Fye_jins2_1439307805865UQPeB_JPEG%2FP20150805_235640000_2A2AC39F-38C6-4C3E-B384-1B475C936E32."
+        },
+        {
+            "name": "제이알푸드",
+            "category": "베이커리",
+            "tel": "02-333-0016",
+            "addr": "서울 마포구 홍익로 10 서교푸르지오\n2공항경의중앙홍대입구역 9번 출구에서272m",
+            "time": "21:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_85%2F1441038375048L6w6x_JPEG%2FSUBMIT_1366710910236_20210372.jpg"
+        },
+        {
+            "name": "와이쿠페 홍대점",
+            "category": "샌드위치",
+            "tel": "0507-1368-1545",
+            "addr": "서울 마포구 홍익로 6\n2공항경의중앙홍대입구역 9번 출구에서378m",
+            "time": "20:00에 영업 종료",
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200915_87%2F1600144645018XG6Um_JPEG%2Fqug8nA7-0gcb-W-5srGU2cVW.jpeg.jpg"
+        }
+    ]
 }
